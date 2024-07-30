@@ -1,0 +1,8 @@
+torch
+torchvision
+torchinfo
+matplotlib
+numpy
+pandas
+tqdm
+grad-cam
